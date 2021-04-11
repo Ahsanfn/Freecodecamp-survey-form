@@ -1,9 +1,13 @@
-# Survey form
 
-A survey is a form with questions specifically designed to gather information about people's experiences, preferences, wants, and needs.
+Follow to my github : https://github.com/Ahsanfn
 
-## Preview
+FREECODECAMP survey-form
 
-![screenshot](https://github.com/DionysusBenstein/survey-form/blob/main/assets/images/screenshot.png)
+Note: HTML,CSS and JAVA SCRIPTS use to create this website
 
-[Live demo](https://dionysusbenstein.github.io/survey-form/)
+Copyright © 2021 AHSAN. All rights reserved
+
+Check Website online: http.______.com
+
+
+ 
